@@ -19,22 +19,22 @@ venv/bin/venv
 
 3. install the following libraries to work
 
-pip install pandas
-pip install numpy
-pip install seaborn
-pip install matplotlib
-pip install bs4
-pip install selenium 
-pip install webdriver_selenium
-pip install nltk
-pip install vaderSentiment
-pip install flask
-pip insall flask_cors
-pip install cors
-pip install mysql.connector
-pip install --upgrade mysql-connector-python 
-pip install pymysql
-pip install SQLAlchemy
+pip install pandas  
+pip install numpy  
+pip install seaborn  
+pip install matplotlib  
+pip install bs4  
+pip install selenium   
+pip install webdriver_selenium  
+pip install nltk  
+pip install vaderSentiment  
+pip install flask  
+pip insall flask_cors  
+pip install cors  
+pip install mysql.connector  
+pip install --upgrade mysql-connector-python   
+pip install pymysql  
+pip install SQLAlchemy  
 
 
 4. To run the app
